@@ -23,7 +23,7 @@ export default function CustomButton({
       case 'success':
         return 'bg-green-500 ';
       case 'outline':
-        return 'text-transparent border-neutral border-[0.5px]';
+        return 'text-transparent border-neutral-300 border-[0.5px]';
       default:
         return 'bg-[#0286ff] ';
     }
