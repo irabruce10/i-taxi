@@ -21,7 +21,9 @@ export default function onBoarding() {
         }}
         className="w-full flex justify-end items-end p-5 "
       >
-        <Text className=" text-black text-md font-JakartaBold ">Skip</Text>
+        <Text className=" text-black text-md font-JakartaBold ">
+          Skip hello
+        </Text>
       </TouchableOpacity>
 
       <Swiper
