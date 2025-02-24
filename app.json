@@ -4,13 +4,15 @@
     "slug": "i-taxi",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/splash.png",
+
+    "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "scheme": "i-taxi",
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#2f80ed"
     },
     "ios": {
       "supportsTablet": true
