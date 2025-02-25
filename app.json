@@ -24,9 +24,17 @@
       }
     },
     "web": {
+      "output": "server",
       "favicon": "./assets/favicon.png",
       "bundler": "metro"
     },
-    "plugins": ["expo-router"]
+    "plugins": [
+      [
+        "expo-router",
+        {
+          "origin": "https://evanbacon.dev/"
+        }
+      ]
+    ]
   }
 }

@@ -11,6 +11,7 @@
   "dependencies": {
     "@clerk/clerk-expo": "^2.7.8",
     "@clerk/types": "^4.46.1",
+    "@neondatabase/serverless": "^0.10.4",
     "expo": "~52.0.37",
     "expo-constants": "~17.0.7",
     "expo-linking": "~7.0.5",
